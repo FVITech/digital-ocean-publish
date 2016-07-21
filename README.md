@@ -30,4 +30,6 @@ git remote add digi ssh://[yourusername]@fvi-grad.com/home/students/[yourusernam
 git push digi master
 ```
 
-You can push whichever branch you want, not just master.
+You can push whichever branch you want, not just master.  
+
+Note: In order to push, you will be asked for your username and password to the fvi Virtual Machine.
